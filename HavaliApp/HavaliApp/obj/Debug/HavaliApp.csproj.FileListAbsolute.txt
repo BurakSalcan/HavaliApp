@@ -1,0 +1,10 @@
+C:\Users\burak\source\repos\HavaliApp\HavaliApp\obj\Debug\HavaliApp.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\HavaliApp\HavaliApp\obj\Debug\HavaliApp.HavaliApp.resources
+C:\Users\burak\source\repos\HavaliApp\HavaliApp\obj\Debug\HavaliApp.Properties.Resources.resources
+C:\Users\burak\source\repos\HavaliApp\HavaliApp\obj\Debug\HavaliApp.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\HavaliApp\HavaliApp\obj\Debug\HavaliApp.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\HavaliApp\HavaliApp\bin\Debug\HavaliApp.exe.config
+C:\Users\burak\source\repos\HavaliApp\HavaliApp\bin\Debug\HavaliApp.exe
+C:\Users\burak\source\repos\HavaliApp\HavaliApp\bin\Debug\HavaliApp.pdb
+C:\Users\burak\source\repos\HavaliApp\HavaliApp\obj\Debug\HavaliApp.exe
+C:\Users\burak\source\repos\HavaliApp\HavaliApp\obj\Debug\HavaliApp.pdb
